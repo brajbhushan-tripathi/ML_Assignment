@@ -1,2 +1,12 @@
 Cross Validation Documentation:
 https://scikit-learn.org/stable/modules/cross_validation.html
+
+
+https://www.kaggle.com/snjumaheshwari/spam-detection
+
+https://www.kaggle.com/tpvermei/unstructured-data-analysis-project
+
+https://www.kaggle.com/daan4k/masterclass-spam-vs-ham
+
+
+https://www.kaggle.com/pranaymns/spam-or-ham-basic-ml
